@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6a0084/v1
+canonical_location: https://kanripo.org/bkk/KR6a0084/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 分別布施經
+  identifiers:
+    alt_id:
+    - T01n0084
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0084.xml
+    old_id: T01n0084
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0084_000.yaml, hash: 'sha256:d213421b2249d9f4fa938b7ec2bbe259b028037d561c579e5967738141b7ebeb'}
+  - {seq: 1, filename: KR6a0084_001.yaml, hash: 'sha256:972e415e0c909b565385097d3794f056e963bda2df8cc5801021326602948f6d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0084_001.markers.yaml, hash: 'sha256:186570b1ae6651233f281042dfa1e4aa65ca271e886455cacbbbf7d7fe566ddf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0084_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1361
+  label: 佛說分別布施經
+  type: juan
+  level: 1
+hash: sha256:11b0422e62a5d6f435011ff5fb9374fe0f0db1fe34883e230a004f825d9f9502
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0084/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0084/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 分別布施經
+  identifiers:
+    krp: KR6a0084
+    cbeta: T01n0084
+    cbeta_old_id: T01n0084
+    authorityid: CA0001015
+    json_key: T0084
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0084.xml
+    old_id: T01n0084
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0084_000-T.yaml, hash: 'sha256:d213421b2249d9f4fa938b7ec2bbe259b028037d561c579e5967738141b7ebeb'}
+  - {seq: 1, filename: KR6a0084_001-T.yaml, hash: 'sha256:30f9cb70da56032c2d832bf56409486ab143656d952e65b2632f4a3af6b05a1d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0084_000-T.markers.yaml, hash: 'sha256:af3ac8e0d0961417c898dc6bd382d5b326a7b55f1d1f078e16d81d0e8dfdfb8e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0084_001-T.markers.yaml, hash: 'sha256:e1407684acbd292e8f2505885c2a83259f3cd594721e743746429a0bcbdbfb93'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0084_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1361
+  label: 佛說分別布施經
+  type: juan
+  level: 1
+hash: sha256:64dab29af33f531bccc7635214d80cbf4b7d26155bf1a6c0fa2a565c578ead2d
