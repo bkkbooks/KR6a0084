@@ -24,7 +24,7 @@ assets:
   - {seq: 0, filename: KR6a0084_000.yaml, hash: 'sha256:d213421b2249d9f4fa938b7ec2bbe259b028037d561c579e5967738141b7ebeb'}
   - {seq: 1, filename: KR6a0084_001.yaml, hash: 'sha256:cde61770ab78605e8be2bb3edd9e81979aefd2a0587118d61c7bcaf0460d5a5a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0084_000.markers.yaml, hash: 'sha256:dafe05e1094ab6b4d6198a83c2f8545c127552abfb4ad0dc8dee4b4f5edf3f19'}
+  - {seq: 0, role: markers, filename: assets/KR6a0084_000.markers.yaml, hash: 'sha256:4a8c0807dc131f8a568fd9ced80f51f4f7a120c562e4c78c35c22564b88a6a81'}
   - {seq: 1, role: markers, filename: assets/KR6a0084_001.markers.yaml, hash: 'sha256:c2435d927e6ddfb31ca80ed6645fca38d8a13b64a6c0003a3341ef887aef0447'}
 table_of_contents:
 - ref:
@@ -37,7 +37,7 @@ table_of_contents:
   label: 佛說分別布施經
   type: juan
   level: 1
-hash: sha256:cf3d60eb99cc499f3a3d7520aa7397a2cb6fd77c73c0e4207b9bba65d1d2c1b0
+hash: sha256:96862664a640a30351a630b18c500dba46f56a255c8b11d1a34e26f190fa02b5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
